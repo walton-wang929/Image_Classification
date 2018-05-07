@@ -11,7 +11,7 @@ Usually, there are several steps for a Image_Classfication_work.
 ## step1: data collection and argumentation
   * open source data: There are many open source dataset from the world. like ImageNet, COCO, PASVAL, google Open Images, and some kaggle public competition dataset.
   * collected by yourself data
-  * [data argumentation](Image_Classification/Notes/data argumentation.md)
+  * [data argumentation](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/data%20argumentation.md)
 
 ## step2: pretrained model comparison and selection
   * [tensoflow provided classication Pre-trained Models](https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models)
@@ -20,13 +20,13 @@ Usually, there are several steps for a Image_Classfication_work.
 
 ## step3: training
   * [simple fine-tune actively training on Keras]()
-  * [TensorFlow for Poets: How to train a custom image recognition model](Image_Classification/Notes/Tensoflow For Poets.md)
+  * [TensorFlow for Poets: How to train a custom image recognition model](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/Tensoflow%20For%20Poets.md)
   * [TensorFlow for Poets 2: Optimize for Mobile]()
   * [TensorFlow for Poets 2: TFLite]()
-  * [How to fine tune a image classifier on Tensorflow Flowers Data](Image_Classification/Notes/fine tune Flowers Dataset.md)
-  * [How to fine tune a image classifer on our own dataset](Image_Classification/Notes/fine tune own dataset.md)
-  * [TensorFlow-Slim image classification](Image_Classification/Notes/TensorFlow-Slim image classification.md) :thumbsup::thumbsup::thumbsup:
-  * [optimizer selection](Image_Classification/Notes/optimizer.md)
+  * [How to fine tune a image classifier on Tensorflow Flowers Data](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/fine%20tune%20Flowers%20Dataset.md)
+  * [How to fine tune a image classifer on our own dataset](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/fine%20tune%20own%20dataset.md)
+  * [TensorFlow-Slim image classification](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/TensorFlow-Slim%20image%20classification.md) :thumbsup::thumbsup::thumbsup:
+  * [optimizer selection](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/optimizer.md)
 
 ## step4: test trained model
   * calculate numeric metrics(Accuracy, Precision, Recall, F1)
@@ -43,8 +43,7 @@ Usually, there are several steps for a Image_Classfication_work.
 # Demo
 I fine trained a VGG16 gender recognition model based on my own dataset[22000].
 
-![ KLIA People Detection and Characteristics With Skeleton](Image_Classification/demo/KLIA People Detection and Characteristics With Skeleton.gif)
-
+![KLIA-airport](Image_Classification/demo/KLIA People Detection and Characteristics With Skeleton.gif)
 
 
 # reference:
