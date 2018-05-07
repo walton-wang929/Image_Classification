@@ -43,7 +43,7 @@ Usually, there are several steps for a Image_Classfication_work.
 # Demo
 I fine trained a VGG16 gender recognition model based on my own dataset[22000].
 
-![KLIA People Detection and Characteristics With Skeleton](Image_Classification/demo/KLIA People Detection and Characteristics With Skeleton.gif)
+![ KLIA People Detection and Characteristics With Skeleton](Image_Classification/demo/KLIA People Detection and Characteristics With Skeleton.gif)
 
 
 
