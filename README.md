@@ -19,10 +19,9 @@ Usually, there are several steps for a Image_Classfication_work.
   * consider intialization and generalization :thumbsup::thumbsup::thumbsup:
 
 ## step3: training
-  * [simple fine-tune actively training on Keras]()
+  * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+  * [simple fine-tune actively training on Keras](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
   * [TensorFlow for Poets: How to train a custom image recognition model](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/Tensoflow%20For%20Poets.md)
-  * [TensorFlow for Poets 2: Optimize for Mobile]()
-  * [TensorFlow for Poets 2: TFLite]()
   * [How to fine tune a image classifier on Tensorflow Flowers Data](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/fine%20tune%20Flowers%20Dataset.md)
   * [How to fine tune a image classifer on our own dataset](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/fine%20tune%20own%20dataset.md)
   * [TensorFlow-Slim image classification](https://github.com/walton-wang929/Image_Classification/blob/master/Notes/TensorFlow-Slim%20image%20classification.md) :thumbsup::thumbsup::thumbsup:
@@ -36,12 +35,15 @@ Usually, there are several steps for a Image_Classfication_work.
 
 ## step5: deployment to mobile or cloud server
 
-* [TF Mobile and TF lite]()
+* TF Mobile and TF lite
 * PC
 * server
 
 # Demo
+
 I fine trained a VGG16 gender recognition model based on my own dataset[22000].
+
+![source video](Image_Classification/raw/master/demo/Entrance_Peak_Hour.gif)
 
 ![KLIA Airport](https://github.com/walton-wang929/Image_Classification/raw/master/demo/KLIA%20People%20Detection%20and%20Characteristics%20With%20Skeleton.gif)
 
